@@ -4,7 +4,7 @@
 <div width="100%">
     <h1 align="center">
       <img
-        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luckyman;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+luckystar;❤Senior+Blockchain+Developer❤;+Passinate+and+Reliable+Developer;" />
     </h1>
   </div>
   
@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="40%">
-      <img src="https://komarev.com/ghpvc/?username=luckyman0705&style=plastic&color=blueviolet" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=luckystar0705&style=plastic&color=blueviolet" alt="Profile Views" />
       <h4>
         Welcome to my GitHub profile!<br>
         Don't forget to give ⭐star⭐ and 👍follow👍 me on GitHub.</h4>
@@ -263,13 +263,13 @@
 <br>
 
 <div align="center" width="100%">
-  <a href="https://github.com/luckyman0705/">
+  <a href="https://github.com/luckystar0705/">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=luckyman0705&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      src="https://github-readme-stats.vercel.app/api?username=luckystar0705&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
       width="450" height="200"/>
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=luckyman0705&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-      width="290" height="200" alt="luckyman0705" />
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=luckystar0705&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+      width="290" height="200" alt="luckystar0705" />
   </a>
 </div>
 
